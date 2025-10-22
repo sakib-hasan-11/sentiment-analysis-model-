@@ -2,4 +2,7 @@ myenv/
 .env
 note.txt
 libraries.txt
-colab requirements.txt
+
+.gitignore
+__pycache__/
+*.pyc
