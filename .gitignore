@@ -6,3 +6,6 @@ libraries.txt
 .gitignore
 __pycache__/
 *.pyc
+
+env reqrs.txt
+
