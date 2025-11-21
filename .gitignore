@@ -8,4 +8,9 @@ __pycache__/
 *.pyc
 
 env reqrs.txt
+transformer_local
+transformer_local.ipynb
 
+tranformer model.ipynb
+
+sentiment_finetuned (1).pt
